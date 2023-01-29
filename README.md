@@ -1,1 +1,1 @@
-This repository contains MATLAB functions for the calculation of spherical harmonic coefficients of monomials using various methods (e.g., recurrence relations, numerical integration, etc.)
+This repository contains MATLAB functions for the calculation of spherical harmonic coefficients of monomial and polynomial functions using various methods (e.g., recurrence relations, numerical integration, etc.)
